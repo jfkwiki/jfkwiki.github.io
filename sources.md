@@ -1,6 +1,6 @@
 # Source notes
 
-Last checked: 11 August 2026.
+Last checked: 21 August 2026.
 
 The public page paraphrases, links to, and encourages visitors to verify details
 with official sources. It should not be treated as legal, immigration, tax, or
@@ -10,6 +10,10 @@ employment advice.
 
 - Berlin Welcome Center: registration of residence  
   https://willkommenszentrum.berlin.de/en/housing/registration-residence
+- Berlin.de official city portal
+  https://www.berlin.de/en/
+- Service Berlin
+  https://service.berlin.de/
 - Service Berlin: registering a residence / Anmeldung  
   https://service.berlin.de/dienstleistung/120686/
 - Berlin Immigration Office / Landesamt für Einwanderung  
@@ -29,6 +33,14 @@ employment advice.
 
 - JFKI Sociology Department profile and contact  
   https://www.jfki.fu-berlin.de/en/faculty/sociology/_inhaltselemente_rd/profile.html
+- JFKI homepage
+  https://www.jfki.fu-berlin.de/en/index.html
+- JFKI Sociology Department page
+  https://www.jfki.fu-berlin.de/faculty/sociology/index.html
+- JFKI academics
+  https://www.jfki.fu-berlin.de/en/academics/index.html
+- North American Studies course catalog
+  https://www.fu-berlin.de/vv/de/fach?id=320000
 - JFKI Sociology team  
   https://www.jfki.fu-berlin.de/en/faculty/sociology/persons/index.html
 - Sebastian Kohl profile  
@@ -65,6 +77,10 @@ employment advice.
   https://www.fu-berlin.de/en/international/faculty-staff/mobility-researchers-in/Kontakt1/index.html
 - International doctoral researchers / Dahlem Research School  
   https://www.fu-berlin.de/en/international/doctoral-researchers/index.html
+- FUB-IT: FU account
+  https://www.it.fu-berlin.de/unsere-services/services-a-z/37519179/index.html
+- FUB-IT: guest-account application form
+  https://www.it.fu-berlin.de/downloads/FU-Antrag-Gastaccount.pdf
 - FU academic calendar
   https://www.fu-berlin.de/en/studium/beratung/kalender/index.html
 - FU Summer Semester 2026 calendar
@@ -128,6 +144,12 @@ employment advice.
   https://www.bvg.de/en/subscriptions-and-tickets/all-tickets
 - BVG subscriptions / Deutschland Ticket  
   https://www.bvg.de/en/subscriptions-and-tickets/subscriptions
+- DB Deutschlandticket
+  https://int.bahn.de/en/offers/regional/deutschland-ticket
+- FU jobticket information
+  https://www.fu-berlin.de/sites/abt-1/service/VBB-Firmenticket-FU-Berlin/index.html
+- FU Welcome Service: jobtickets
+  https://www.fu-berlin.de/en/sites/abt-1/referate/pe/welcome-service/ansprechpersonen-servicestellen/weitere-vorteile/jobticket.html
 - BVG Ticket-App  
   https://www.bvg.de/en/subscriptions-and-tickets/all-apps/ticket-app
 
@@ -135,8 +157,16 @@ employment advice.
 
 - FU housing service for guest researchers  
   https://www.fu-berlin.de/en/sites/unterbringung/gastwissenschaftler/mieter/index.html
-- Internationales Begegnungszentrum der Wissenschaft e.V.  
-  http://www.ibz-berlin.de/index.php?lang=en
+- InBerlinWohnen housing finder
+  https://www.inberlinwohnen.de/wohnungsfinder
+- Deutsche Wohnen housing search
+  https://www.deutsche-wohnen.com/mieten/zuhause-mieten
+- Internationales Begegnungszentrum der Wissenschaft e.V.
+  https://www.ibz-berlin.org/
+- Studierendenwerk Berlin
+  https://www.stw.berlin/
+- Studierendenwerk housing portal
+  https://www.stw.berlin/en/housing/housing-portal.html
 - Berlinovo apartments  
   https://www.berlinovo.de/en/suche-apartments
 - ImmobilienScout24  
@@ -167,6 +197,8 @@ Internal note: the 2024 Brandschutzhelfer seminar PDF is treated as internal tra
 
 ## Culture, leisure, food, shopping
 
+- Studierendenwerk Berlin student canteens
+  https://www.stw.berlin/en/student-canteens/
 - visitBerlin events  
   https://www.visitberlin.de/en/events-berlin
 - Berlin.de events and culture  
@@ -205,13 +237,17 @@ Internal note: the 2024 Brandschutzhelfer seminar PDF is treated as internal tra
 
 ## Language and everyday Berlin / German
 
-- Goethe-Institut free German practice  
-  https://www.goethe.de/en/spr/ueb.html
-- Goethe-Institut Berlin  
-  https://www.goethe.de/ins/de/en/ort/ber.html
-- Easy German  
-  https://www.easygerman.org/
-- Make it in Germany: language classes  
-  https://www.make-it-in-germany.com/en/living-in-germany/learn-german/language-classes
+- FU Weiterbildungszentrum
+  https://www.fu-berlin.de/sites/weiterbildung/index.html
+- IQ Lingua German courses Berlin
+  https://www.iq-lingua.de/iq/deutschkurse-berlin
+- Speakeasy German courses
+  https://www.speakeasysprachzeug.de/german-course
+- Neue Schule Berlin
+  https://www.neueschule.de/home.html
+- DeutschAkademie Berlin
+  https://www.deutschakademie.de/zh-hans/berlin/
+- Berlitz German courses
+  https://www.berlitz.com/en-de/lp/learning-german
 - Handbook Germany: waste separation and Pfand basics  
   https://handbookgermany.de/en/waste-separation

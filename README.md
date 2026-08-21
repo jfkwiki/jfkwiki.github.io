@@ -1,5 +1,11 @@
 # JFKI Sociology Welcome Wiki
 
+Public homepage: https://jfkwiki.github.io/
+
+If GitHub Pages ever renders this README instead of the designed homepage, open:
+
+https://jfkwiki.github.io/index.html
+
 A lightweight GitHub Pages-ready welcome wiki for incoming doctoral researchers,
 visiting scholars, students, and new colleagues at the Sociology Department of
 the John F. Kennedy Institute, Freie Universität Berlin.
@@ -9,15 +15,15 @@ the John F. Kennedy Institute, Freie Universität Berlin.
 - `index.html` — home, quiz, and topic cards
 - `first-week.html` — arrival checklist
 - `academic-life.html` — term times, seminar, lunches, workshops
-- `administration.html` — Anmeldung, LEA, health insurance, tax, banking
-- `campus.html` — FU and JFKI systems
+- `administration.html` — Anmeldung, LEA, Berlin services, payroll/admin routes
+- `campus.html` — institute contact, keys, FU/guest accounts, course catalog, events
 - `library.html` — JFKI library, Primo, borrowing, interlibrary loan
-- `housing.html` — housing routes, furnished options, portals, and commute thinking
+- `housing.html` — university housing, IBZ, Studierendenwerk, providers, portals
 - `people.html` — department member overview
 - `intellectual-map.html` — schematic intellectual Berlin map
-- `transport.html` — BVG, S-Bahn, DB, zones, tickets
-- `language.html` — German courses, Language Center routes, and self-study resources
-- `shopping-food.html` — groceries, Pfand, food, markets
+- `transport.html` — BVG, S-Bahn, DB, zones, Deutschlandticket, jobticket
+- `language.html` — FU German, Language Center, Weiterbildung, intensive schools
+- `shopping-food.html` — groceries, MensaCard, Pfand, food, markets
 - `culture.html` — leisure, events, museums, everyday city life
 - `safety.html` — emergency and fire-safety frame
 - `sources.html` / `sources.md` — source links and maintenance notes
