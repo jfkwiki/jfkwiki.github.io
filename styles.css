@@ -524,6 +524,16 @@ button.button:hover {
   background: white;
 }
 
+.video-embed {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin: 1rem 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  background: #000;
+}
+
 .transit-map {
   position: relative;
   min-height: 260px;
