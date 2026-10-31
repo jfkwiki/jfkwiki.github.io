@@ -89,6 +89,8 @@ employment advice.
   https://www.fu-berlin.de/en/studium/beratung/kalender/2026wise/index.html
 - JFKI Graduate School visiting researcher information
   https://www.jfki.fu-berlin.de/en/graduateschool/application/Visiting_researcher/index.html
+- ARTE/NDR documentary: *Universities of the World — Freie Universität Berlin* (27 min.; checked 31 October 2026)
+  https://www.arte.tv/de/videos/119413-004-A/universitaeten-der-welt/
 - my.FU portal
   https://my.fu-berlin.de/
 - ELSA employee self-service and payroll portal
